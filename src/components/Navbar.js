@@ -134,6 +134,35 @@ const Navbar = () => {
               Management
             </Link>
           </li>
+          <div className="divider"></div>
+          <li className="ms-6">
+            <Link
+              className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
+              to="/Investor"
+            >
+              Investor Relations
+            </Link>
+          </li>
+          <div className="divider"></div>
+          <li className="ms-6">
+            <Link
+              className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
+              to="/Careers"
+            >
+              Careers
+            </Link>
+          </li>
+          <div className="divider"></div>
+          <li className="ms-6">
+            <Link
+              className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
+              to="/contact"
+            >
+              Contact
+            </Link>
+
+          </li>
+          <div className="divider"></div>
         </ul>
       ) : null}
     </div>
