@@ -72,7 +72,7 @@ const HomeCards = () => {
           <div className="form-control w-full ">
             <label className="label">
               <span className="label-text ">
-                Search by Location or Postal Code
+                Search by City
               </span>
             </label>
             <form onSubmit={handleSubmit} className="flex mt-4 md:w-full">

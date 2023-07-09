@@ -9,13 +9,16 @@ import Contact from "./pages/Contact";
 import { PrologisProvider } from "./context/PrologisContext";
 import Career from "./pages/Career";
 import Investor from "./pages/Investor";
+import Management from "./pages/Management";
 import ScrollToTop from "./components/ScrollToTop";
+import NavTop from "./components/NavTop";
 
 function App() {
   return (
     <PrologisProvider>
       <Router>
         <ScrollToTop />
+        <NavTop />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />}></Route>
@@ -26,6 +29,7 @@ function App() {
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/Careers" element={<Career />}></Route>
           <Route path="/Investor" element={<Investor />}></Route>
+          <Route path="/Management" element={<Management />}></Route>
         </Routes>
       </Router>
     </PrologisProvider>

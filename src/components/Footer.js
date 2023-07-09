@@ -4,7 +4,7 @@ const Footer = ({ mt, title, text }) => {
   return (
     <footer className={`mt-${mt}`}>
       <div className="bg-gradiant text-center">
-        <h3 className="pt-12 text-white text-3xl font-bold">
+        <h3 className="pt-12 text-white text-3xl font-bold mx-5	">
 
         {title}
         </h3>
@@ -110,7 +110,7 @@ const Footer = ({ mt, title, text }) => {
         </ul>
       </div>
       <p className="mt-20 mb-5 text-center">
-        &copy; {new Date().getFullYear()} Prologis . All rights reserved.
+        &copy; {new Date().getFullYear()} HERCULES GROUP . All rights reserved.
       </p>
     </footer>
   );
