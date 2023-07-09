@@ -64,7 +64,7 @@ const Navbar = () => {
                 className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
                 to="/INTERIOR-DESIGN"
               >
-                INTERIOR DESIGN
+                Interior Design
               </Link>
             </li>
             <li className="ms-6">
