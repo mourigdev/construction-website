@@ -52,7 +52,7 @@ const Home = () => {
       <Blocks />
       <Slider data={sliderData} />
       <Thriving
-        link="/"
+        link="/contact"
         src="assets/Customer-Service.jpg"
         Text="Your business is important to us. Whether you're a startup or a multinational corporation, we provide you access to the right properties, skilled people, and innovative solutions you need to succeed year after year."
         Title={"EMBRACE SUCCESS"}

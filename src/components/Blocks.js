@@ -14,7 +14,7 @@ const Blocks = () => {
     },
     {
       id: 3,
-      subtitle: "Navigating your investments towards sustainable growth and long-term profitability.",
+      subtitle: "Bringing a touch of elegance and simplicity to your spaces with our innovative interior design solutions.",
       title: "Interior Design",
       image: "real-estate",
     },

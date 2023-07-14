@@ -88,6 +88,10 @@
   text-shadow: .025rem 0 0 currentColor;
 }
 
+.ext2:hover  h2{
+  text-shadow: .050rem 0 0 currentColor;
+}
+
 /* svg.ext {
   display: none !important;
 }
@@ -400,6 +404,11 @@ footer .divider {
     overflow-y: auto;
   }
 
+  #houses {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
   .ml-30 {
     margin-left: 30px;
   }
@@ -429,4 +438,9 @@ footer .divider {
 
 .bg-green-900 {
   background-color: #1b4d4a;
+}
+
+
+.email-alert{
+  cursor: pointer;
 }

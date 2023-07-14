@@ -23,17 +23,17 @@ const Footer = ({ mt, title, text }) => {
           <li className="mb-16 md:mb-0">
             <Link
               className="text-white border-b-2 border-white transition duration-500 hover:border-2 p-2 transition"
-              to={"/properties"}
+              to={"/Investor"}
             >
-              Properties
+              Investor Relations
             </Link>
           </li>
           <li className="mb-8 md:mb-0">
             <Link
               className=" text-white border-b-2 border-white transition duration-500 hover:border-2 p-2 transition"
-              to={"/Construction"}
+              to={"/Careers"}
             >
-              Construction
+               Careers
             </Link>
           </li>
         </ul>
@@ -88,7 +88,7 @@ const Footer = ({ mt, title, text }) => {
               to={"/INTERIOR DESIGN"}
               className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
             >
-              INTERIOR DESIGN
+              Interior Design
             </Link>
           </li>
           <li className="mt-5">

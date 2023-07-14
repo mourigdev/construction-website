@@ -83,4 +83,16 @@ export const Propertiesdata = [
     link: "prologis.com",
     price: 23,
   },
+  {
+    id: 8,
+    src: "assets/building/house1.jpg",
+    title: "aaa DC2",
+    city: "Tangier",
+    address: "Tangier Sidi Driss",
+    type: "Building",
+    description: "Total Available Area: 3,180 - 8559 SQM",
+    link: "prologis.com",
+    price: 56,
+    size: 1050,
+  }
 ];

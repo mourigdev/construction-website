@@ -51,8 +51,8 @@ const Global = () => {
         </p>
         <Swiper
           grabCursor={true}
-          centeredSlides={true}
-          slidesPerView={window.innerWidth <= 768 ? 1 : 2}
+          centeredSlides={false}
+          slidesPerView={window.innerWidth <= 768 ? 1 : 3}
           navigation={true}
           modules={[Navigation]}
           className="mySwiper mb-10 "
@@ -63,19 +63,19 @@ const Global = () => {
               d.id == 1
               ?
               <div className="ml-12 mr-10 md:mx-0 mt-12 md:mt-4 ">
-                <h3 className="font-bold text-2xl md:mb-3 md:w-6/12 md:text-center">
+                <h3 className="font-bold text-2xl md:mb-3  md:text-center">
                   {d.Number}
                 </h3>
-                <p className="text-base-400 text-xl md:text-sm md:w-6/12 md:text-center">
+                <p className="text-base-400 text-xl md:text-sm  md:text-center">
                   {d.description}
                 </p>
               </div>
               :
               <div className="ml-12 mr-10 md:mx-0 mt-12 md:mt-4 ">
-              <h3 className="font-bold text-2xl md:mb-3 md:w-6/12 md:text-center">
+              <h3 className="font-bold text-2xl md:mb-3  md:text-center">
                 {d.Number}
               </h3>
-              <p className="text-base-400 text-xl md:text-sm md:w-6/12 md:text-center">
+              <p className="text-base-400 text-xl md:text-sm  md:text-center">
                 {d.description}
               </p>
             </div>

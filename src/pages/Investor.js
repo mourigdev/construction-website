@@ -19,7 +19,7 @@ const Investor = () => {
     {
       id: 2,
       Title: "Annual Investor Event",
-      date: "Join us at our annual Investor Event to learn more about Hercules Group's achievements, our vision for the future, and exciting investment opportunities. Our next event will be announced soon",
+      date: "Join us at our annual Investor Event to learn more about Hercules Group's achievements, our vision for the future, and exciting investment opportunities. Our next event will be announced soon.",
     },
     {
       id: 3,
