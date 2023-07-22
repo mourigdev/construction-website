@@ -62,7 +62,7 @@ const Navbar = () => {
             <li className="ms-6">
               <Link
                 className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
-                to="/INTERIOR-DESIGN"
+                to="/InteriorDesign"
               >
                 Interior Design
               </Link>
@@ -120,7 +120,7 @@ const Navbar = () => {
           <li className="ms-6">
             <Link
               className="transition ease-in-out duration-500 text-green-700 font-semibold py-1 hover:border-b-2 hover:border-green-700 hover:border-solid"
-              to="/INTERIOR DESIGN"
+              to="/InteriorDesign"
             >
               INTERIOR DESIGN
             </Link>
