@@ -2,8 +2,8 @@
 $folderPath = "C:\Users\abmou\Documents\GitHub\prologis\"
 
 # Set the old and new text to replace
-$oldText = "Cleaning"
-$newText = "INTERIOR DESIGN"
+$oldText = "automation.jpeg"
+$newText = "automation.jpg"
 
 # Get all JavaScript files within the folder path
 $jsFiles = Get-ChildItem -Path $folderPath -Filter "*.js" -File -Recurse

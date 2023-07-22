@@ -78,14 +78,14 @@ const Construction = () => {
   return (
     <div>
       <Hero
-        src="assets/how-we-work-hero.jpg"
+        src="assets/how-we-work-hero4.jpg"
         header="Construction"
         text="At Hercules Group, our dedicated team of builders, engineers, and architects collaboratively work towards constructing superior quality structures. We are committed to creating long-term assets for our clients while positively contributing to our community."
       />
       <Work
         header={"Our Collaborative Approach"}
         text="Every construction project at Hercules Group is a testament to our belief in the power of collaboration. We involve our clients and partners in the construction process, ensuring their vision and objectives are reflected in the final product. Our commitment to transparency, engagement, and mutual respect fosters a relationship of trust with our clients and partners, as showcased in their testimonials below."
-        src="assets/work.jpg"
+        src="assets/work2.jpg"
       />
       <CustomerSays data={customerData} />
       <WorkWith data={data} title={"Our Construction Philosophy: The Hercules Difference"}/>

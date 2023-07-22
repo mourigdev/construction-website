@@ -65,14 +65,14 @@ const Cleaning = () => {
   return (
     <div>
       <Hero
-        src="assets/how-we-work-hero.jpg"
+        src="assets/how-we-work-hero6.jpg"
         header="Interior Design"
         text="we believe that the interior design of a home or commercial space speaks volumes about its inhabitants or owners. With our expert team of interior designers, we aim to transform your space into a personalized haven that beautifully encapsulates your individual style and preferences"
       />
       <Work
         header={"Our Collaborative Approach"}
         text="At Hercules Group, we understand that successful interior design is a deeply collaborative and personal journey. We invite our clients to take an active part in the design process, ensuring that their personal tastes, lifestyle needs, and functional requirements are beautifully woven into the final design. Your involvement can be as much or as little as you desire - our expert team is adept at translating even the most abstract ideas into stunning design realities."
-        src="assets/work.jpg"
+        src="assets/work3.jpg"
       />
       <CustomerSays data={customerData} />
       <WorkWith data={data} title="Our Interior Design Philosophy: The Hercules Difference"/>

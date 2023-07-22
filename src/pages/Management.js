@@ -76,7 +76,7 @@ const Management = () => {
   return (
     <div>
       <Hero
-        src="assets/how-we-work-hero.jpg"
+        src="assets/how-we-work-hero7.jpg"
         header="Management"
         text="At Hercules Group, we ensure that your property is not just maintained, but it thrives. We prioritize your return on investment, making us the best choice for comprehensive property management services."
       />

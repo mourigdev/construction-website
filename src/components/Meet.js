@@ -37,6 +37,7 @@ const Meet = () => {
         <div className="video md:w-6/12">
         {/* <h2 className="text-green-700 font-bold py-10 text-3xl">Meet Our Team Members</h2> */}
           <video
+            muted
             loop
             className="w-full lg:h-70 "
             playsInline
@@ -55,6 +56,7 @@ const Meet = () => {
             MEET TIMOR
           </h2> */}
           <video
+            muted
             loop
             className="w-full lg:h-70 "
             playsInline

@@ -28,7 +28,7 @@ const HomeCards = () => {
   const data = [
     {
       id: 1,
-      src: "assets/broadmoor.jpeg",
+      src: "assets/broadmoor.jpg",
       Title: "A Complete Service Spectrum",
       paragraph:
         "At Hercules Group, we are your comprehensive hub for all your construction, development, and real estate needs. We take immense pride in being a one-stop solution, orchestrating every phase of the process. Whether it's conceptualising a project, bringing it to life through meticulous construction, managing the complexities of real estate, or ensuring an impeccable sale, Hercules Group is there with you every step of the way.",
@@ -36,7 +36,7 @@ const HomeCards = () => {
     },
     {
       id: 2,
-      src: "assets/automation.jpeg",
+      src: "assets/automation.jpg",
       Title: "Unmatched Quality and Profound Experience",
       paragraph:
         "Our team is an ensemble of highly experienced and diverse professionals, bringing together decades of experience and a wide range of skills. With our extensive 30+ years in construction, our fresh architectural insights, and our profound expertise in properties, Hercules Group guarantees exceptional quality and service. We breathe life into projects with a perfect blend of traditional craftsmanship and modern innovation, delivering results that not only meet but exceed expectations.",
