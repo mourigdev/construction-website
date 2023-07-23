@@ -13,11 +13,11 @@ const CustomerSays = ({ bghouse, data }) => {
           {data.map((d) => (
             <div className="customer-item bg-base-100 rounded lg:w-6/12 lg:mr-4 lg:shadow p-4 ">
               <div className="flex items-center">
-                <img
+                {/* <img
                   src={d.src}
                   alt="customers"
                   className="w-28 rounded-full"
-                />
+                /> */}
                 <div className="text">
                   <h3 className="text-green-700 ml-5">{d.Title}</h3>
                   <h5 className="font-normal text-green-700 ml-5 mt-1">

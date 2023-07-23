@@ -118,6 +118,7 @@ svg {
 body {
   overflow-x: hidden !important;
   font-family: Montserrat, sans-serif;
+  box-sizing: border-box;
 }
 
 .bg-base-100,

@@ -18,12 +18,13 @@ const Financials = () => {
             <li className="flex items-center justify-between">
               <a
                 className="text-xl text-green-700 underline decoration-solid font-bold"
-                href="assets/Hercules Group.pdf"
-                target="_blank"
+                href="https://www.linkedin.com/company/hercules-group-ma/"
+                target="_blanck"
               >
                 LINKDEN
               </a>
-              <a href="assets/Hercules Group.pdf" download>
+              <a href="https://www.linkedin.com/company/hercules-group-ma/"
+                target="_blanck">
                 <FaLinkedin className="text-2xl text-green-700 font-bold" />
               </a>
             </li>
@@ -31,12 +32,14 @@ const Financials = () => {
             <li className="flex items-center justify-between">
               <a
                 className="text-xl text-green-700 underline decoration-solid font-bold"
-                href="assets/Hercules Group.pdf"
-                download
+                href="https://www.instagram.com/hercules-group-ma/"
+                target="_blanck"
+                
               >
                 INSTAGRAM
               </a>
-              <a href="assets/Hercules Group.pdf" download>
+              <a href="https://www.instagram.com/hercules-group-ma/"
+                target="_blanck">
                 <FaInstagram className="text-2xl text-green-700 font-bold" />
               </a>
             </li>
@@ -44,12 +47,13 @@ const Financials = () => {
             <li className="flex items-center justify-between">
               <a
                 className="text-xl text-green-700 underline decoration-solid font-bold"
-                href="assets/Hercules Group.pdf"
-                download
+                href="https://www.facebook.com/hercules-group-ma/"
+                target="_blanck"
               >
                 FACEBOOK
               </a>
-              <a href="assets/Hercules Group.pdf" download>
+              <a href="https://www.facebook.com/hercules-group-ma/"
+                target="_blanck">
                 <FaFacebookF className="text-2xl text-green-700 font-bold" />
               </a>
             </li>
@@ -57,12 +61,13 @@ const Financials = () => {
             <li className="flex items-center justify-between">
               <a
                 className="text-xl text-green-700 underline decoration-solid font-bold"
-                href="assets/Hercules Group.pdf"
-                download
+                href="https://www.twitter.com/hercules-group-ma/"
+                target="_blanck"
               >
                 TWITTER
               </a>
-              <a href="assets/Hercules Group.pdf" download>
+              <a href="https://www.twitter.com/hercules-group-ma/"
+                target="_blanck">
                 <FaTwitter className="text-2xl text-green-700 font-bold" />
               </a>
             </li>

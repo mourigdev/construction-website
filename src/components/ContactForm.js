@@ -35,7 +35,7 @@ const ContactForm = () => {
 
   return (
     <div className="contactform">
-      <div className=" w-6/12 mx-auto py-5 px-10">
+      <div className="w-8/12 lg:w-6/12 mx-auto lg:py-5 lg:px-10">
         <p>
           <span>T:</span> 076-5428436
         </p>
